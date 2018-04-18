@@ -1,0 +1,12 @@
+package com.qimengabc.usercentersoaapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class UsercenterSoaApiApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(UsercenterSoaApiApplication.class, args);
+    }
+}
