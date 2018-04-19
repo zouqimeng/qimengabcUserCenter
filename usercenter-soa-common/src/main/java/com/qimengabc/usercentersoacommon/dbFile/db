@@ -1,0 +1,5 @@
+mysql
+数据库：qm_usercenter
+表：
+1、用户表：uc_user_member
+字段： 用户名、密码(md5)、邮件、手机、性别、是否冻结、创建时间、是否删除

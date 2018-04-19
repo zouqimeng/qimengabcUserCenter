@@ -23,13 +23,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-*.dll
-*.jar
-*.dll
-*.cmd
-*.dll
-mvnw
-*.dll
-*.jar
-*.dll
-.mvn
