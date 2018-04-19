@@ -8,5 +8,6 @@ public class UsercenterSoaApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UsercenterSoaApiApplication.class, args);
+
     }
 }
